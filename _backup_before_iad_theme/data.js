@@ -1,4 +1,4 @@
-﻿var APP_DATA = {
+var APP_DATA = {
   "scenes": [
     {
       "id": "0-palier",
@@ -26,7 +26,7 @@
       "initialViewParameters": {
         "yaw": 0.15238132099397106,
         "pitch": -0.01616863676136937,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -64,7 +64,7 @@
       "initialViewParameters": {
         "yaw": 1.5389070396130968,
         "pitch": 0.2054633832980528,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -114,7 +114,7 @@
       "initialViewParameters": {
         "yaw": -1.261740175036966,
         "pitch": 0.1254567445531194,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -164,7 +164,7 @@
       "initialViewParameters": {
         "yaw": -2.174319445574067,
         "pitch": 0.16587292346923022,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -208,7 +208,7 @@
       "initialViewParameters": {
         "yaw": 0.5472808855670692,
         "pitch": 0.3354556837231968,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -252,7 +252,7 @@
       "initialViewParameters": {
         "yaw": -0.9469676983326494,
         "pitch": 0.2998956627952225,
-        "fov": 1.75
+        "fov": 1.4628963779807613
       },
       "linkHotspots": [
         {
@@ -273,5 +273,3 @@
     "viewControlButtons": false
   }
 };
-
-
